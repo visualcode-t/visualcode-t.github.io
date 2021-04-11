@@ -1,3 +1,2 @@
-# test1
-# test2
-# test3
+# Creating a safe linked list in Rust.
+[Creating a safe linked list in Rust](https://github.com/visualcode-t/safe_linked_list_rust) - While most languages provide access to pre-made data structures, it is still beneficial to teach the creation of these structures. Rust complicates this by making it more difficult to create them with safe code and simultaneously suggesting the avoidance of unsafe code where possible. Many implementations of a safe linked list exist for Rust. This implementation will attempt to differentiate itself from those by aiming for usability.
